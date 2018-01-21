@@ -1,5 +1,5 @@
 ## Calcul de distance
-# Différents programmes pour calculer des distances sur la Terre
+Différents programmes pour calculer des distances sur la Terre
 =====================
 Orthodromie
 -------------
